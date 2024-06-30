@@ -56,7 +56,7 @@ margin-left: 68%;
     font-family: 'Alex Brush', cursive;
     font-size: 28px;
     color: #343434;
-       margin-top: -700%;
+       margin-top: -880%;
      
   }
 
@@ -80,7 +80,7 @@ margin-left: 68%;
     color:#6B928F;
     width: 70%;
    margin-left: 15%;
-   margin-top: 10%;
+   margin-top: -10%;
    
   }
   .parrafo2{
@@ -264,9 +264,9 @@ margin-left: 48%;
 }
  .parrafo_deposito{
   text-align: center;
-  font-family: "Rouge Script", cursiva;
-     font-size: 30px;
-     color: #7b7b7b;
+  font-family: 'Alex Brush', cursive;
+  font-size: 28px;
+  color: #343434;
      margin-top: 15%;
 
  }
