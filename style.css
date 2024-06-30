@@ -47,7 +47,7 @@
   }
   .segundo{
 width: 17%;
-margin-top: -29%;
+margin-top: -59%;
 margin-left: 68%;
   }
 
@@ -60,6 +60,23 @@ margin-left: 68%;
      
   }
 
+  
+  .audio{
+    width: 40%;
+    height: 20px;
+    margin-left: 30%;
+    margin-top: -50%;
+    background: rgb(143, 170, 131);
+    color: #8d8d8d;
+    
+}
+h5{
+color: #a7a7a7;
+font-family: 'Sacramento', cursive;
+font-size: 10px;
+text-align: center;
+
+}
   .almanaque{
     width: 70%;
     margin-left:15%;
@@ -228,7 +245,7 @@ margin: 14%;
  
 
  .arrow span {
-  margin-top: -5%;
+  margin-top: 10%;
   display: block;
   width: 14px;
   height: 14px;
@@ -333,7 +350,7 @@ margin-top: -50%;
   max-width: 1200px;
   padding: 18px 7px;
   text-align: center;
-  margin-top: 90%;
+  margin-top: 20%;
   background-color: #ffffff;
   font-size: 100%;
 }
